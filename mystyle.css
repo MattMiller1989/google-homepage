@@ -1,0 +1,13 @@
+#Center-element{
+   
+    font-family: arial,sans-serif;
+    color: #222;
+    font-size: small;    
+
+  
+    position: fixed;
+    top:50%;	  
+    left: 50%;
+   
+
+}
